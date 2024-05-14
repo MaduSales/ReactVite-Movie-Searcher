@@ -13,7 +13,7 @@ Imagem do projeto: ![image](https://github.com/MaduSales/ReactVite-Movie-Searche
 
 <br>
 
-Projeto feito com HTML, CSS, JavaScript, React.JS e Git de uma aplicação que permite o usuário de buscar filmes por título e exibir os resultados em uma lista.   
+Projeto feito com HTML, CSS, JavaScript, React.JS e Git de uma aplicação que permite o usuário de buscar filmes por título e exibir os resultados em uma lista com o aucílio de uma API.   
 <br>
 <br>
 <br>
