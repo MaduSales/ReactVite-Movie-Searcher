@@ -4,7 +4,7 @@
 
 <br>
 <br>
-Imagem do projeto: ![image](https://github.com/MaduSales/ReactVite-Movie-Searcher/assets/166547195/f5d0e9b4-7c22-458c-8987-e5414a794a66)
+Imagem do projeto: https://github.com/MaduSales/ReactVite-Movie-Searcher/assets/166547195/f5d0e9b4-7c22-458c-8987-e5414a794a66
 
 
 
